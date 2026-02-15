@@ -7,6 +7,13 @@ This repository provides a comprehensive Python workflow for analyzing wave dyna
 <img width="1792" height="729" alt="image" src="https://github.com/user-attachments/assets/038913c9-9dd9-4e40-9e0d-80eba1e18ddc" />
 illustration of mean wave period (https://stormgeo.com/insights/why-douglas-sea-state-3-should-be-eliminated-from-good-weather-clauses)
 
+Some examples of the results can be seen in these following images:
+<img width="881" height="970" alt="image" src="https://github.com/user-attachments/assets/8b678100-9bb6-47a8-88bb-47790dd9abd5" />
+Significant Wave Height
+
+<img width="4169" height="1470" alt="image" src="https://github.com/user-attachments/assets/82f096d3-dfb9-4f5d-884c-783767290ef2" />
+mean wave periods vs extreme wave heights
+
 ##  Why this analysis is important
 Understanding wave climate (Height, Period, and Direction) is critical for:
 * **Morphodynamics:** Studying how swells shape the coastline over decades.
