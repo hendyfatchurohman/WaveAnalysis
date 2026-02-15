@@ -45,12 +45,3 @@ Understanding wave climate (Height, Period, and Direction) is critical for:
 If your computer do not have the following libaries, please install the necessary dependencies via terminal or command prompt:
 ```bash
 pip install xarray cfgrib dask matplotlib windrose pandas
-
-
-
-
-
-
-
-
-
