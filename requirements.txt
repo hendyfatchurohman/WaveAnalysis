@@ -1,0 +1,7 @@
+xarray
+cfgrib
+dask
+matplotlib
+windrose
+pandas
+openpyxl
