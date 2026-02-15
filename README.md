@@ -31,9 +31,17 @@ Understanding wave climate (Height, Period, and Direction) is critical for:
     * `Mean wave period`
     * `Mean wave direction`
 4. You can customize the location by entering the coordinate and choose which year (data download is limited, so if you need a long time series, you must do it multiple times)
-4. Download data in **GRIB** format.
+5. Download data in **GRIB** format
+
+The executable jupyter notebook file is provided in the **docs** folder, as well as the dataset.
+
+Enjoy!
 
 ### 2. Environment Setup
-Install the necessary dependencies via terminal or command prompt:
+If your computer do not have the following libaries, please install the necessary dependencies via terminal or command prompt:
 ```bash
 pip install xarray cfgrib dask matplotlib windrose pandas
+
+
+
+
