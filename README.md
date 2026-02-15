@@ -14,13 +14,7 @@ Understanding wave climate (Height, Period, and Direction) is critical for:
 * **Renewable Energy:** Assessing potential for wave energy converters.
 
 
-## 🚀 Features
-* **Multi-file GRIB Processing:** Seamlessly combine limited-range ECMWF downloads using `xarray` and `dask`.
-* **Publication-Quality Wave Roses:** Specialized plotting of Significant Wave Height (SWH) and Mean Wave Period (MWP) with 36-sector precision.
-* **Advanced Time Series:** Dual-axis visualization with extreme event markers ($H_s > 3.0m$) and directional background overlays.
-* **Journal-Ready Aesthetics:** High-DPI (300+) exports with bold formatting optimized for thesis and publication.
-
-## 🛠️ Step-by-Step Workflow
+## Step-by-Step Workflow
 
 ### 1. Data Acquisition
 1. Create an account at the [Copernicus Climate Data Store (CDS)](https://cds.climate.copernicus.eu/).
@@ -29,6 +23,7 @@ Understanding wave climate (Height, Period, and Direction) is critical for:
     * `Significant height of combined wind waves and swell`
     * `Mean wave period`
     * `Mean wave direction`
+4. You can customize the location by entering the coordinate and choose which year (data download is limited, so if you need a long time series, you must do it multiple times)
 4. Download data in **GRIB** format.
 
 ### 2. Environment Setup
